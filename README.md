@@ -1,4 +1,4 @@
-## TP1(翻译项目1)
+## TP1(《Linux Basics for Hackers》)
 #项目内容 
 - 书籍：《Linux Basics for Hackers》 2019版
 - 目的：暂时主要为翻译团队内部使用
