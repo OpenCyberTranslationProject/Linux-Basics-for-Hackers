@@ -19,8 +19,7 @@
 - v0.1.2: 预计完成第一章节（20190119）
 - v0.1.3: 预计完成第二章节（春节期间待定）
 
-![](./Book_name.jpg)
-
 #友情关注 
-![](./opensec.JPG)
-![](./hawoo.JPG)
+- [Opensec知识星球](https://t.zsxq.com/vrvjAuN)
+- [Hawoo知识星球](https://t.zsxq.com/2bQvFYJ)
+![](./Book_name.jpg)
