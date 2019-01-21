@@ -11,6 +11,7 @@
 - [byr0nchan](https://github.com/byr0nchan)
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)
+- [ink247GG](https://github.com/ink247GG)
 
 #项目进度 
 - v0.1：初始创建（20190111）
