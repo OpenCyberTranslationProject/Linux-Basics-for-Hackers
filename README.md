@@ -8,7 +8,7 @@
 
 #参与人员
 - [HawooSeclab](https://github.com/hawoosec)汉武安全实验室(http://www.hawoo.net) (总体框架统一格式)
-- [byr0nchan](https://github.com/byr0nchan) （第1、4、12章节）
+- [byr0nchan](https://github.com/byr0nchan) （第1、4、12、13章节）
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)
 - [ink247GG](https://github.com/ink247GG) （第3、14章节）
@@ -20,7 +20,7 @@
 - v0.1.2: 完成第一章节（20190119）
 - v0.1.3: 完成第十二章节（20190121）
 - v0.1.4: 预计完成第二、三、四章节（2月期间待定）
-        完成第四章（20190212）
+        （20190212 已完成第四章）
 
 
 #友情关注 
