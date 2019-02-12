@@ -12,7 +12,7 @@
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)
 - [ink247GG](https://github.com/ink247GG) （第3、14章节）
-- [咸鱼](第2章节) 
+- [咸鱼]() （第2章节）
 
 #项目进度 
 - v0.1：初始创建（20190111）
