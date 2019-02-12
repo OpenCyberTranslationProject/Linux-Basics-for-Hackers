@@ -8,7 +8,7 @@
 
 #参与人员
 - [HawooSeclab](https://github.com/hawoosec)汉武安全实验室(http://www.hawoo.net) (总体框架统一格式)
-- [byr0nchan](https://github.com/byr0nchan) （第1、12章节）
+- [byr0nchan](https://github.com/byr0nchan) （第1、4、12章节）
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)
 - [ink247GG](https://github.com/ink247GG) （第3、14章节）
@@ -19,7 +19,7 @@
 - v0.1.1：完成翻译本的主体框架，除正文章节外已简译完成（20190118）
 - v0.1.2: 预计完成第一章节（20190119）
 - v0.1.3: 预计完成第十二章节（20190121）
-- v0.1.4: 预计完成第二、三章节（2月期间待定）
+- v0.1.4: 预计完成第二、三、四章节（2月期间待定）
 
 #友情关注 
 - [Opensec知识星球](https://t.zsxq.com/vrvjAuN)
