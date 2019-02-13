@@ -10,7 +10,7 @@
 - [HawooSeclab](https://github.com/hawoosec)汉武安全实验室(http://www.hawoo.net) (总体框架统一格式)
 - [byr0nchan](https://github.com/byr0nchan) （第1、4、12、13章节）
 - [L1i9n8g8](https://github.com/L1i9n8g8)
-- [nJcx](https://github.com/nJcx)
+- [nJcx](https://github.com/nJcx)（第5、6、7章节）
 - [ink247GG](https://github.com/ink247GG) （第3、14章节）
 - [咸鱼]() （第2章节）
 
