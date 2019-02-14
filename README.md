@@ -8,11 +8,11 @@
 
 #参与人员
 - [HawooSeclab](https://github.com/hawoosec)汉武安全实验室(http://www.hawoo.net) (总体框架统一格式)
-- [byr0nchan](https://github.com/byr0nchan) （第***1、4、8***、9、***12、13***章节）
+- [byr0nchan](https://github.com/byr0nchan) （第*1、4、8*、9、*12、13*章节）
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)（第5、6、7章节）
-- [ink247GG](https://github.com/ink247GG) （第***3***、14章节）
-- [咸鱼]() （第***2***章节）
+- [ink247GG](https://github.com/ink247GG) （第*3*、14章节）
+- [咸鱼]() （第*2*章节）
 
 #项目进度 
 - v0.1：初始创建（20190111）
