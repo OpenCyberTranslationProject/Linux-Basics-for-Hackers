@@ -1,6 +1,6 @@
 ## TP1(《Linux Basics for Hackers》)
 #项目内容 
-- 书籍：《Linux Basics for Hackers》 2019版
+- 书籍：《Linux Basics for Hackers》2019版
 - 目的：暂时主要为翻译团队内部使用
 - 时间：预计2019/01/10--2019/04/24
 - 人员：预计5人左右，共同承担全部章节翻译任务
@@ -11,7 +11,7 @@
 - [byr0nchan](https://github.com/byr0nchan) （第*1、4、7、8、9、10、11、12、13*章节）
 - [L1i9n8g8](https://github.com/L1i9n8g8)
 - [nJcx](https://github.com/nJcx)（第5、6章节）
-- [ink247GG](https://github.com/ink247GG) （第*3*、14、15章节）
+- [ink247GG](https://github.com/ink247GG) （第*3*章节，及第14、15章节）
 - [咸鱼]() （第*2、16、17*章节）
 - [sara961](https://github.com/sara961)（第7章节）
 
