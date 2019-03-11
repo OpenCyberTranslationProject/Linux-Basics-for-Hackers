@@ -13,7 +13,7 @@
 - [nJcx](https://github.com/nJcx)（第5、6章节）（甲方安全开发工程师，主要负责nids 、hids、waf 的研发，偶尔业余挖挖src，喜欢骑行、做饭、爬山）
 - [ink247GG](https://github.com/ink247GG)（第*3*章节，及第14、15章节）
 （信息安全还未从业者，具有CompTIA security+ ce和OSWP认证，据说目前在努力考取OSCP中）
-- [咸鱼]()（第*2、16、17*章节）
+- [咸鱼]()（第*2、16、17*章节）（陈从伟，大数据安全工程师，加拿大本科大三，具有RHCE，CompTIA security+ 认证）
 - [sara961](https://github.com/sara961)（第7章节）
 
 #项目进度 
