@@ -14,7 +14,7 @@
 - [ink247GG](https://github.com/ink247GG)（第*3、14、15*章节）
 （信息安全还未从业者，具有CompTIA security+ ce和OSWP认证，据说目前在努力考取OSCP中）
 - [咸鱼]()（第*2、16、17*章节）（陈从伟，大数据安全工程师，加拿大本科大三，具有RHCE，CompTIA security+ 认证）
-- [sara961](https://github.com/sara961)（第*7*章节）
+- [sara961](https://github.com/sara961)（第*7*章节）（等保测评安全专家，超级无敌大帅哥，精通划水技术）
 
 #项目进度 
 - v0.1.0：初始创建（20190111）
