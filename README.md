@@ -9,7 +9,7 @@
 
 #参与人员
 - [HawooSeclab](https://github.com/hawoosec)汉武安全实验室(http://www.hawoo.net) (总体框架统一格式)
-- [byr0nchan](https://github.com/byr0nchan)（第*1、4、7、8、9、10、11、12、13*章节）
+- [byr0nchan](https://github.com/byr0nchan)（第*1、4、7、8、9、10、11、12、13*章节）（两块，乙方网络新数据安全研究从业者，标准合规及风险评估，RHCE/RHCA(Cloud)/DJCP/CISP/CISSP）
 - [nJcx](https://github.com/nJcx)（第5、6章节）（甲方安全开发工程师，主要负责nids 、hids、waf 的研发，偶尔业余挖挖src，喜欢骑行、做饭、爬山）
 - [ink247GG](https://github.com/ink247GG)（第*3、14、15*章节）
 （信息安全还未从业者，具有CompTIA security+ ce和OSWP认证，据说目前在努力考取OSCP中）
