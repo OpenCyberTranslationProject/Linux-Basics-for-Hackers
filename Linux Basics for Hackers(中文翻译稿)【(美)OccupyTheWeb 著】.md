@@ -1,5 +1,10 @@
 ![](media/323bd329815a69597017e16d24aa005b.jpg)
 
+<a href="#黑客LINUX基础">黑客LINUX基础</a>
+<a href="#绪论">绪论</a>
+
+
+
 **黑客LINUX基础**
 
 **从学习Kali Linux中的网络、脚本和安全性开始**
