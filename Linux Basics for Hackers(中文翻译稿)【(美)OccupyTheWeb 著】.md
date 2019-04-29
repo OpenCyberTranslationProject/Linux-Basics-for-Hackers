@@ -1,7 +1,6 @@
-![](media/323bd329815a69597017e16d24aa005b.jpg)
-
 [toc]
 
+![](media/323bd329815a69597017e16d24aa005b.jpg)
 
 
 **黑客LINUX基础**
